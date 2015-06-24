@@ -9,7 +9,7 @@
 
 ## FAQ
 
-See the [FAQ](FAQ.md) for the answers to commonly asked questions.
+See the [FAQ](FAQ.md) for the answers to commonly asked questions
 
 
 ## Recipes
